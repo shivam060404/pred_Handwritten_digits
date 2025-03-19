@@ -60,7 +60,7 @@ The model achieves high accuracy on the test dataset. Performance metrics and vi
 ## Implementation Details
 - Images are normalized to values between 0 and 1
 - Data pipeline is optimized using tf.data API
-- Training leverages caching, shuffling, and prefetching for performance
+- Training leverages caching, shuffling, and prefetching for performance.
 
 ## Future Improvements
 - Experiment with convolutional layers for improved accuracy
